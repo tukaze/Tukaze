@@ -1,6 +1,6 @@
-# Lucas Tukaze
+# Lucas Tukaze🖥
 
-# **`Desenvolvedor BackEnd`**
+**`Desenvolvedor BackEnd`**
 
 Me chamo Lucas Tukaze dos Santos, tenho 26 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FAM. Sou apaixonado por tecnologia
 
