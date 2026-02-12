@@ -1,5 +1,12 @@
-## Olá eu sou o Lucas Tukaze, Desenvolvedor BackEnd  !!
+# Lucas Tukaze
 
+# **`Desenvolvedor BackEnd`**
+
+Me chamo Lucas Tukaze dos Santos, tenho 26 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FAM. Sou apaixonado por tecnologia
+
+
+
+### 🤖 Linguagens e Tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
